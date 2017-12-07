@@ -2,7 +2,7 @@
 
 1. Create an account on Github
 2. Apply for [Student Developer's Pack](https://education.github.com/pack)
-3. Fork [this reposirtory](https://github.com/AUV-IITK/AUV2017) to your account
+3. Fork [this reposirtory](https://github.com/AUV-IITK/Resources) to your account
 4. Clone the respositry to your machine
 5. Make a new branch called `add/<your-name>`
 6. Make a new file named `<your-name>` and write around 30-40 words about yourself (includes your hobbies, interests and quirks)
